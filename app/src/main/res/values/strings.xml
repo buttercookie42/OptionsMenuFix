@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Options Menu Fix</string>
+    <string name="xposed_desc">Fix a bug regarding opening Activity options menus in Android 13/14</string>
 </resources>
